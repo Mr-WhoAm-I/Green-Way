@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Cinemachine Confiner
+  - Water
+  - UI
+  - Player
+  - Weapon_Layer1
+  - Weapon_Layer2
+  - Weapon_Layer3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 148206487
+    locked: 0
+  - name: Layer 2
+    uniqueID: 1657450875
+    locked: 0
+  - name: Layer 3
+    uniqueID: 3681327887
+    locked: 0
+  - name: Water
+    uniqueID: 2665872123
+    locked: 0
+  - name: Ground
+    uniqueID: 2216379279
+    locked: 0
+  - name: Vegetation
+    uniqueID: 2520446001
+    locked: 0
+  - name: Player
+    uniqueID: 4242361953
+    locked: 0
+  - name: Weapon
+    uniqueID: 717404875
+    locked: 0
